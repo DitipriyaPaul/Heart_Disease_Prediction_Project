@@ -4,7 +4,7 @@ According to the World Health Organization, Cardiovascular diseases (CVDs) are t
 death globally: more people die annually from CVDs than from any other cause. An estimated 17.9 
 million people died from CVDs each year. Of these deaths, 85% are
 due to heart attack and stroke. The high mortality rate and expensive surgery cost already make heart 
-disease become a serious threat for many families in many parts of the world, especially those poorstricken countries. Therefore, it is crucial for people to analyze the relationship between various kinds of 
+disease become a serious threat for many families in many parts of the world, especially those poor stricken countries. Therefore, it is crucial for people to analyze the relationship between various kinds of 
 attributes in human and the possibility of suffering from heart disease. A robust model is helpful and 
 meaningful in predicting which type of people is more likely to have a heart disease thus we can prepare 
 or prevent in advance. 
@@ -18,7 +18,6 @@ Since our objective is to predict the possibility of having heart disease based 
 function. And inputs and desired outputs are expected, definitely we should choose the supervised 
 learning. In this thesis, I would use four models (logistic regression, random forest, extreme gradient 
 boosting and neural network) in supervised learning to predict the possibility of people to have heart 
-2
 disease based on people’s physical function of the body. 
 To fulfill the objective of my thesis, the following steps may be followed. 
 1. Download the data set “Heart Disease” from UCI Machine Learning Repository webpage
