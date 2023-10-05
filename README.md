@@ -27,9 +27,7 @@ To fulfill the objective of my thesis, the following steps may be followed.
 5. Draw conclusion based on the result
 
 # Project_Objective
-This data set is obtained from UCI Machine Learning Repository webpage. It contains 76 attributes, but 
-all published experiments refer to using a subset of 14 of them. The total observations are 303. And it 
-was donated by David W. Aha.
+This data set is obtained from UCI Machine Learning Repository webpage. It contains 76 attributes 
 # Attribute_Information
 AGE: age in years
 SEX: (1 = male; 0 = female)
